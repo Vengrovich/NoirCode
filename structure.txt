@@ -1,0 +1,16 @@
+NoirCode/
+├── Models/
+│   ├── Document.swift
+│   └── FileType.swift
+├── ViewModels/
+│   └── EditorViewModel.swift
+├── Views/
+│   ├── TextEditorView.swift
+│   ├── CodeEditorView.swift
+│   ├── NewFileTypeView.swift
+│   └── ContentView.swift
+├── Coordinators/
+│   └── AppCoordinator.swift
+├── Utils/
+│   └── PDFInfoPrintingAdapter.swift
+└── NoirCodeApp.swift
